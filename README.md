@@ -1,2 +1,2 @@
 # EcoStation
-A bio-information data processing plaform
+A bio-information data processing platform
